@@ -1,2 +1,1 @@
-Compile the code with the Rust compiler
-Add it to your environment variable
+Compile the code with the Rust compiler then add it to your environment variable
